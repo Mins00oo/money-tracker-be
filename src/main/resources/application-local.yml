@@ -1,0 +1,5 @@
+DB_USERNAME: root
+DB_URL: jdbc:mysql://localhost:3306/mta?serverTimezone=Asia/Seoul
+DB_PASSWORD: 'KE01'
+LOGGING_LEVEL_ROOT: DEBUG
+LOGGING_FILE_PATH: './logs'
